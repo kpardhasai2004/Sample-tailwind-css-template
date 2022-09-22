@@ -1,0 +1,12 @@
+body {
+
+    background: #093A0A;
+    background: linear-gradient(90deg, #1E293B 0%, #475569 35%, #CBD5E1 100%);
+
+}
+
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+  }
+
